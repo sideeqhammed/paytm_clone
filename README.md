@@ -1,4 +1,4 @@
-# paytm_clone — A Basic Paytm Clone
+# Paytm_clone — A Basic Paytm Clone
 
 A simplified digital wallet application inspired by Paytm. Users can sign up, sign in, view their balance, search for other users, and transfer money to them. The project contains both a **React frontend** and an **Express + MongoDB backend**
 
